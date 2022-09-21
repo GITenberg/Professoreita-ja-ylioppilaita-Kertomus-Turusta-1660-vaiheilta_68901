@@ -1,0 +1,29 @@
+_repo: Professoreita-ja-ylioppilaita-Kertomus-Turusta-1660-vaiheilta_68901
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hertzberg, Rafaël
+    aliases:
+    - Hertzberg, Rafael
+    - Hertzberg, R. (Rafaël)
+    birthdate: 1845
+    deathdate: 1896
+    gutenberg_agent_id: '9351'
+    url: http://www.gutenberg.org/2009/agents/9351
+description: ''
+gutenberg_issued: '2022-09-03'
+identifiers:
+  gutenberg: '68901'
+language: fi
+pgterms:marc905: 20220621092259hertzberg
+pgterms:marc906: '1888'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :K. J. Gummerus Oy,1888.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Professoreita ja ylioppilaita: Kertomus Turusta 1660 vaiheilta'
+url: http://www.gutenberg.org/ebooks/68901
