@@ -1,5 +1,8 @@
 _repo: Professoreita-ja-ylioppilaita-Kertomus-Turusta-1660-vaiheilta_68901
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hertzberg, Rafaël
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '9351'
     url: http://www.gutenberg.org/2009/agents/9351
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68901#Professoreita-ja-ylioppilaita-Kertomus-Turusta-1660-vaiheilta
 gutenberg_issued: '2022-09-03'
 identifiers:
   gutenberg: '68901'
